@@ -1,0 +1,12 @@
+.alert {
+	font-size: 16px;
+}
+.page {
+	width: 100%;
+}
+.vendor_style {
+/*font-family: Roboto;*/
+font-style: normal;
+font-weight: 700;
+font-size: 16px!important;
+color: #067195 !important;}

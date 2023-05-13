@@ -1,0 +1,117 @@
+.new-template .post-gallery {
+	float: none;
+	width: 100%;
+}
+
+.top-info-block-left {
+	float: left;
+}
+
+.top-info-block-right {
+	float: right;
+}
+
+.top-info-block-right .bx_item_detail_rating {
+	float: none;
+}
+
+.top-info-block-right .sloznost-ust {
+	margin-top: -6px;
+    padding: 0;
+    display: block;
+    margin-bottom: 6px;
+}
+
+.top-info-block-right .material {
+	text-transform: uppercase;
+}
+
+.top-info-block-right.margin-block {
+	margin-right: 20px;
+}
+
+div.top-info-block h2 {
+	padding: 0;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: 700;
+    font-size: 20px;
+    color: #8a1d70;
+    margin-bottom: 10px;
+}
+
+
+
+div.top-info-block b {
+	font-weight: 700;
+}
+
+.slick-slider img {
+	width: 380px;
+}
+
+@media (max-width: 1206px) and (min-width: 768px){
+	.slick-slider img {
+		width: 360px;
+	}
+}
+
+@media (max-width: 768px) {
+	.slick-slider img {
+		width: 100%;
+	}
+}
+
+.slider-line {
+	height: 1px;
+	width: 80%;
+	background-color: #e5e5e5;
+	margin: 20px auto 0;
+}
+
+.product-bottom-left {
+	float: left;
+	width: 80%;
+}
+
+.new-template .product-bottom {
+	width: 100%;
+	overflow: visible;
+}
+
+.product-bottom-top {
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.price-wrap {
+	width: 33%;
+	display: inline-block;
+	vertical-align: middle;
+    text-align: center;
+}
+
+.product-bottom-top .detail-bot-left {
+	width: 33%;
+	display: inline-block;
+	float: none;
+    vertical-align: middle;
+
+}
+
+.product-bottom-top .ptr-raiting {
+	width: 23%;
+	display: inline-block;
+	float: none;
+	margin-left: 10%;
+	vertical-align: top;
+}
+
+.product-bottom-top .compare-detail {
+	float: none;
+}
+
+.new-template .product-bottom-tabs {
+	width: 100%;
+	float: none;
+}

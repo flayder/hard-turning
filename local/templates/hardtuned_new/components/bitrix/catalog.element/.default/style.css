@@ -1,0 +1,25 @@
+/* item_detail_v2 */
+.input.radio::before {
+	left: 0 !important;
+}
+
+.input.radio {
+	padding-left: 0 !important;
+}
+
+.input.radio label {
+	font-size: 14px;
+}
+
+.input.radio label span {
+	color: #00638b;
+	font-weight: bold;
+}
+
+.input.radio.active::after {
+	left: 3px !important;
+}
+
+.pricing-block-magnitola {
+	width: 100%;
+}

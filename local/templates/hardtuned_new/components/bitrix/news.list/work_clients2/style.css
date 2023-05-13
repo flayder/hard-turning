@@ -1,0 +1,30 @@
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+.owl-theme .owl-nav {
+    margin-top: -150px!important;
+    position: absolute;
+}
+.owl-prev {    float: left;
+    margin-top: -40px!important;
+    margin-left: 16px!important;
+background: #721b5d!important;
+}
+
+
+.owl-next {
+float: right;
+    margin-right: 0px!important;
+    margin-left: 200px!important;
+    margin-top: -40px!important;
+background: #721b5d!important;
+}
